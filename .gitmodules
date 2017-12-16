@@ -1,0 +1,3 @@
+[submodule "CLAction Test 2D/Assets/Scripts/cocos-like-actions-for-unity"]
+	path = CLAction Test 2D/Assets/Scripts/cocos-like-actions-for-unity
+	url = https://github.com/zerse/cocos-like-actions-for-unity.git
